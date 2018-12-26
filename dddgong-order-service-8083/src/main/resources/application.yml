@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: dddgong-order-service
+server:
+  port: 8083
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:7777/eureka/

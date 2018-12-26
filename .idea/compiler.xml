@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dddgong-eureka-service-7777" />
+        <module name="dddgong-order-service-8080" />
+        <module name="dddgong-order-service-8083" />
+        <module name="dddgong-user-service-8081" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dddgong-cloud" target="1.8" />
+      <module name="dddgong-eureka-service-7777" target="1.7" />
+      <module name="dddgong-order-service-8080" target="1.7" />
+      <module name="dddgong-order-service-8080 (1)" target="1.7" />
+      <module name="dddgong-order-service-8082" target="1.7" />
+      <module name="dddgong-order-service-8083" target="1.7" />
+      <module name="dddgong-user-service-8081" target="1.7" />
+      <module name="dddgongorderservice8082" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

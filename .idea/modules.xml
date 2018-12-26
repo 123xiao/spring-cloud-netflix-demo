@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dddgong-cloud.iml" filepath="$PROJECT_DIR$/dddgong-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dddgong-eureka-service-7777/dddgong-eureka-service-7777.iml" filepath="$PROJECT_DIR$/dddgong-eureka-service-7777/dddgong-eureka-service-7777.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dddgong-order-service-8080/dddgong-order-service-8080.iml" filepath="$PROJECT_DIR$/dddgong-order-service-8080/dddgong-order-service-8080.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dddgong-order-service-8083/dddgong-order-service-8083.iml" filepath="$PROJECT_DIR$/dddgong-order-service-8083/dddgong-order-service-8083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dddgong-user-service-8081/dddgong-user-service-8081.iml" filepath="$PROJECT_DIR$/dddgong-user-service-8081/dddgong-user-service-8081.iml" />
+    </modules>
+  </component>
+</project>

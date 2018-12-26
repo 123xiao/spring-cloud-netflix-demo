@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: dddgong-eureka-service-7777
+server:
+  port: 7777
+
+eureka:
+  client:
+    registerWithEureka: false
+    fetchRegistry: false
+  server:
+    defaultZone: http://localhost:${server.port}/eureka/
